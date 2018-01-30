@@ -62,9 +62,9 @@ HyperLPR中使用的字符分割方法很简单.同样也是基于滑动窗口�
 在config.txt定义三种样本的目录
 
 ```python
-../character_judgement_samples/T #正样本
-../character_judgement_samples/F #负样本
-../character_judgement_samples/CH #中文样本
+../character_judgement_samples/T #正样本 正样本指样本图片的中心有文字
+../character_judgement_samples/F #负样本 负样本指样本图片的中心无文字,左右两侧有也没有关系
+../character_judgement_samples/CH #中文样本 正样本指样本图片的中心有中文文字
 ```
 
 #### 下面提供了三种样本的图例
