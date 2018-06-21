@@ -105,4 +105,4 @@ HyperLPR中使用的字符分割方法很简单.同样也是基于滑动窗口�
 
 ### 获取帮助
 
-+ HyperLPR讨论QQ群：673071218, 加前请备注HyperLPR交流。
++ HyperLPR讨论QQ群：746123554, 加前请备注HyperLPR交流。
