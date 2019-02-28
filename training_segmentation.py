@@ -1,6 +1,5 @@
 #coding=utf-8
 import cv2
-import cv2
 from PIL import Image,ImageDraw,ImageFont
 import numpy as np
 
